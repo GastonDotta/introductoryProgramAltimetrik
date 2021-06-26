@@ -1,4 +1,5 @@
-! [img](https://lh3.googleusercontent.com/dnyDO-4zLMWbPGdEz7kMS1wtrTuzvEpNjWCswck1WAT9ADcoJHkxfB9I09hfUh69lv2VPggt3tbqLj_HaxjAWGvtP7yIj0Y0U2GmyaQ2BRRQdNklrWnFx27ZXNdJn-4-svnyZmID)
+
+![git](https://lh3.googleusercontent.com/dnyDO-4zLMWbPGdEz7kMS1wtrTuzvEpNjWCswck1WAT9ADcoJHkxfB9I09hfUh69lv2VPggt3tbqLj_HaxjAWGvtP7yIj0Y0U2GmyaQ2BRRQdNklrWnFx27ZXNdJn-4-svnyZmID)
 
 # Git: 
 Git is the most popular open source Version Control System on the market.
@@ -6,7 +7,10 @@ Git is the most popular open source Version Control System on the market.
 ## Branches:
 A branch in Git is simply a lightweight movable pointer to one of these commits. The default branch name in Git is master.
 ## Branching Strategies & Flows: 
-! [img](https://salesforcegraells.files.wordpress.com/2017/10/gitflow-workflow.jpg)
+
+
+![gitflow](https://salesforcegraells.files.wordpress.com/2017/10/gitflow-workflow.jpg)
+
 This Flowchart is usually the most commonly used (“Gitflow”) and proposes the division with 2 types of essential branches the "Master" branch, and the "Develop" branch, to which can be added the "Feature" branches, "Release" branches and "Hotfix" branches.
 
 ### The Master branch:
