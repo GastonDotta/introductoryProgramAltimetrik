@@ -1,69 +1,76 @@
-# Agile methodology: 
+# Agile methodology:
+ 
+## What does agile methodology mean? 
+The real utility of agile methods is to provide people with a common basis for making decisions about the best way to develop software. It has four principles:
 
-### ¿Qué significa metodología ágil? 
+Individuals and people over tools and processes
+Advancing software over documentation
+With the customer, collaboration is valued over negotiation.
+Being open to change is preferable to following a fixed plan.
 
-La verdadera utilidad de los métodos ágiles es brindar a las personas una base común para tomar decisiones sobre la mejor manera de desarrollar software.
-Las metodologías ágiles surgen del manifiesto ágil el que dice que se deben tener en cuenta 4 principios: 
+## Why? 
+It emerges from the obsolescence of the cascade model which is a process of sequential development, in which the software development is conceived as a set of stages that are executed one after the other. This system does not anticipate the sudden changes that both customers and technologies tend to have
 
-Individuos y personas por sobre las herramientas y los procesos: La burocracia no admite procesos fluidos y los procesos fijos atan la creatividad y limitan la colaboración.
+## Agile Estimation:
+The agile estimate is just that: a team-wide estimate of how long the project will take.
+## Story Points:
+Story points are units of measure for expressing an estimate of the overall effort required to fully implement a product backlog item or any other piece of work.
+## Absolute & Relative Estimation:
+These are ways of expressing an estimation.
+Absolute Estimation focuses on the ideal time and is expressed in hours.
+Relative Estimation focuses on size and complexity and is expressed in story points.
 
-Avanzar en el software por sobre la documentación: La comunicación a través de documentos no ofrece la riqueza y generación de valor que logra la comunicación directa entre las personas, y a través de la interacción con prototipos del producto. 
-
-Con el cliente se valora la colaboración por sobre la negociación: La segunda puede llevar a conflictos de intereses y malos resultados más si se traza un plan fijo por esto es mejor establecer una relación de intercambio constante con el cliente.
-
-Es preferible estar abierto a los cambios a seguir un plan fijo.
-
-Igual implementar metodologías ágiles no quiere decir renunciar a la documentación, a los contratos o a los planes, solo que nos permite adaptarlos a una nueva realidad para ejemplificar: La documentación es una buena herramienta, pero quizá está bien cuestionarse si es la única forma de proceder y quizá se descubra una forma de resolver la situación de una manera más intuitiva para el usuario.
-
-## Scrum:
-
-![img](https://lh6.googleusercontent.com/7oQCWGEUJdpO8OCxg0N7dHkTaSnSASK0E4JEgH6RblRVl9D0cEU6yvGir-mDlnuXvT37QNZmC0oF1mzuFL71goBQ-Vt3MXpYUsoONIOPq5hLUgf6CtQ88dmLKWsIcy86HPZKXiOh)
-
-### ¿Qué es? 
-
-Scrum es un [framework](https://rockcontent.com/es/blog/framework/) el cual parte de una premisa que es que ningún proyecto va a ser estático y lineal (ver metodologías ágiles). 
-
-Scrum es una forma de creación de conocimiento organizada, especialmente buena para promover la innovación continua de forma incremental. Incrementando la flexibilidad aumenta la capacidad de producción. (Esta metodología se basa en pequeños equipos)
-
-### ¿Cómo se trabaja? 
-
-Se "desgrana" el proyecto en partes pequeñas las cuales poseen objetivos [S.M.A.R.T. ](https://www.titular.com/blog/objetivos-smart-que-son-y-como-utilizarlos) a esto se le llaman SPRINTS. Estos pueden durar hasta 1 mes pero por lo general se promedian 2 semanas. Se realiza una reunión corta que se realiza de forma diaria llamada “Daily Sprint” para sincronizar las tareas del equipo, se intenta en ésta saber que se está trabajando, en que se va a trabajar y si hay bloqueos de alguno de los miembros.
-
-Al principio de cada Sprint se realiza la reunión de planificación, en esta se definen los objetivos para el siguiente Sprint, no tiene una duración predeterminada y la conduce por lo general un “Scrum Master” y está bien que este presente el propietario del producto.
-
-Al final del Sprint se realiza una “Review” en esta se debe de considerar como se realizaron las tareas y cuáles no se han podido realizar y porque además suele realizarse una “Demo"
-Por último se realiza la reunión de retrospectiva, esta la realiza el equipo y analiza la forma de trabajarse este Sprint para mejorar el flujo de trabajo del equipo en esta por ejemplo se detecta si hubo falta de conocimiento para reforzar ese integrante con los conocimientos que requiere.
-
-### Integrantes:
-
-Scrum Master: Es la persona encargada de asegurarse que las pautas se siguen correctamente, se encarga de dirigir la mayoría de las reuniones y se encarga de que proteger al equipo de interferencias externas ( ej. el product owner pide que el equipo realice más tareas, el Scrum Master debe decidir si esto es posible o no).
-
-Product Owner: Es el lado del cliente o la voz de los clientes, un buen product owner debe de ser capaz de describir las “features” que debe de tener un producto y explicar el porqué al equipo para que este lo comprenda y lo desarrolle con el mejor entendimiento.
-
-Equipo de desarrollo : Plantilla encargada de realizar las tareas para el correcto desarrollo del producto.
+# Scrum:
 
 
 
-### Bibliografía:
+## What is it? 
+Scrum is a framework which starts from the premise that no project is going to be static and linear (see agile methodologies). 
 
-[¿Qué es la metodología ágil?](https://www.redhat.com/es/devops/what-is-agile-methodology)
+## Why? 
 
-[El manifiesto ágil](https://www.scrummanager.net/bok/index.php?title=El_manifiesto_ágil)
+Scrum is about humanizing the process so that a team can optimize its pursuit of a goal. Using scrum makes taking faster and specific decisions. Scrum is more structured. Therefore, it is better than other methodologies if the project is complex.
+How does it works? 
 
-[What Is Agile?](https://www.forbes.com/sites/stevedenning/2016/08/13/what-is-agile/?sh=5c1561d726e3)
+## Sprints :
+The project is "shredded" into small parts which have S.M.A.R.T. objectives, these are called SPRINTS. These can last up to 1 month but usually have an average of  2 weeks.
 
-[Agile: What You Need To Know And Can't Afford To Ignore](https://www.forbes.com/sites/tracybrower/2019/02/17/agile-what-you-need-to-know-and-cant-afford-to-ignore/?sh=88838ea25938)
+## Planning Meeting : 
+At the beginning of each Sprint, the planning meeting is held to define the objectives for the next Sprint.
 
-[Los 4 valores del Agile Manifesto explicados y analizados](https://www.ennaranja.com/agile/los-cuatro-valores-del-agile-manifesto/)
 
-[What is Scrum?](https://www.scrum.org/resources/what-is-scrum)
+## Daily Sprints/ Daily Stand Up / DSU:
 
-[A Brief Overview of the Scrum Framework](https://youtu.be/gy1c4_YixCo)
+Is a short daily meeting (15min)  which is held to know, What did you do yesterday?
+What will you do today? & if it is Anything blocking your progress?
 
-[Scrum y Metodologías Ágiles en INGENIERÍA INFORMÁTICA](https://www.youtube.com/watch?v=DT2NEBCAPHw&ab_channel=EDteamEDteamVerificada)
 
-[Planificación del sprint](https://www.scrummanager.net/bok/index.php?title=Planificación_del_sprint)
+## Sprint Review Meeting:
 
-[La Guía de Scrum](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Spanish-Latin-South-American.pdf)
+At the end of the Sprint, a "Review" is carried out to consider how the tasks were performed and which ones could not be performed, and why a "Demo" is usually carried out.
 
-[The 2020 Scrum Guide TM](https://scrumguides.org/scrum-guide.html)
+## Sprint Retrospective:
+The purpose of the Sprint Retrospective is to plan ways to increase quality and effectiveness.
+
+
+## Scrum Team:
+
+### Scrum Master: 
+The Scrum Master is accountable for the Scrum Team’s effectiveness. They do this by enabling the Scrum Team to improve its practices, within the Scrum framework.
+
+### Product Owner:
+It is the customer side or the voice of the customers, a good product owner must be able to describe the "features" that a product must have
+
+### Developers:
+Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint.
+ 
+## Scrum Artifacts:
+Scrum artifacts are tools used to represent work or value. They are designed to maximize transparency of key information. 
+
+### Product Backlog:
+The Product Backlog is an emergent, ordered list of what is needed to improve the product. It is the single source of work undertaken by the Scrum Team.
+### Sprint Backlog:
+This is a list of items to work on during the Sprint stage.
+### Increment:
+ An Increment is the result of the Sprint.
+
